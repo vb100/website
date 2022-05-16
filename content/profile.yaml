@@ -1,0 +1,30 @@
+- profile:
+  initials: VB
+  name: Vytautas Bielinskas
+  profession: Data Scientist and Mentor
+  image: images/PROFILE-SITE_SP.jpeg
+  location: Druskininkai, LT
+  relocation: false
+  company: IBM
+  for_hire: false
+  focus: ML Engineering, Cloud Computing
+  focus_url: https://www.youtube.com/c/VytautasBielinskas
+  about: |
+    I am data scientist and mentor at IBM. At IBM I focusing on Computer Vision problems, Supervised/Unsupervised learning, as such as MLOps and other trending technologies which businesses are interested to apply. Also creating an educational content on Youtube covering areas such as data science, Python programming, book reviews, and other useful topics for a regular data scientist, data anlytic or Machine Learning engineer.
+
+    My first deployed application was deployed on Google Cloud Platform, hovewer my favourite cloud provider for ML and MLOps is Amazon Web Service (AWS).
+
+    Need a mentor? Have any cool ideas about AI? Reach me in all possible ways provided below!
+  skills:
+    - Machine Learning & Deep Learning
+    - Machine Learning Operations (MLOps)
+    - Flask and Docker
+  tools:
+    - Python/Tensorflow
+    - AWS
+    - Github/PyCharm
+  budget:
+    currency: Eur
+    min: 20
+    max: 30
+    default: 20

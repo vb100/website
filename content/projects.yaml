@@ -1,0 +1,25 @@
+- name: Data extraction from Product images (MVP)
+  url: https://www.ibm.com
+  description: Created the application which able to extract all required information from food product images. The extracted data cover such categorires as nutritions, allergens, and ingredients. For object detection part YOLOv3 was been used; For back-end application ReactJS. Used cloud provider - Microsoft Azure. Technology used - Object detection, Optical Character Recognition (OCR), Natural Language Processing (NLP), Front-end developing with React.
+  status: completed
+  tags:
+    - Computer Vision
+    - Object detection
+    - Artificial Intelligent
+    - Python
+    - Azure
+    - YOLO
+  icon: website
+  image: images/project.jpg
+
+- name: Pneumonia in human lungs detector with AI (Deployed on GCP)
+  url: https://github.com/vb100/Pneumonia-X-Rays-of-Human-Lungs-AI-project
+  description: This projects includes both back-end (Keras, Flask with dependencies) and front-end/deployement (HTML, CSS, JS) parts. The project perform X-rays of human lungs classification using CNN with automated image pre-processing and internal procedures. Saved files of inspected models are saved on specific folders in project directory.
+  status: completed
+  tags:
+    - Computer Vision
+    - Deep Learning
+    - Python
+    - Medical AI
+    - Convolutional Neural Networks 
+  icon: github
