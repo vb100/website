@@ -8,7 +8,7 @@ module.exports = {
     {
       resolve: "@wkocjan/gatsby-theme-intro",
       options: {
-        basePath: "http://duomenumokslas.lt/",
+        basePath: "/",
         contentPath: "content/",
         showThemeLogo: false,
         theme: "dark-green",
